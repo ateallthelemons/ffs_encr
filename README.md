@@ -50,7 +50,7 @@ For encrypted transfers, the **recipient** first runs `python generate_keys.py`.
 
 ### 2. Send
 
-Place your file in `data/` and set `FILENAME` in `encode.py` to its name, e.g. `"escapism.html"`.
+Place your file in `data/` and set `FILENAME` in `encode.py` to its name.
 
 For video output, the recommended starting settings in `encode.py` are:
 

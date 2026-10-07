@@ -7,7 +7,7 @@ from ffs.crypto import load_public_key
 
 
 # CONFIG
-FILENAME = "IMG_0668.HEIC"
+FILENAME = "to_encode.ext"
 ENCRYPTION = True  # False for plain bit encoding
 FPS = 30      # video framerate - adjust to comply with platform requirements
 DATA_FPS = 30 # data framerate - higher values allow more data/sec but
